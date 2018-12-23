@@ -1,0 +1,25 @@
+[
+
+  {
+    "id": 1,
+    "symbol": "./images/B3/services.png",
+    "title": "Service",
+    "text": "Contrary to popular belief. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor ",
+    "button": "View Service"
+  },
+  {
+    "id": 2,
+    "symbol": "./images/B3/work.png",
+    "title": "Our Work",
+    "text": "It has roots in a piece of classical Latin Contrary to popular belief. Rrom 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor ",
+    "button": "Our Work"
+  },
+  {
+    "id": 3,
+    "symbol": "./images/B3/contact.png",
+    "title": "Contact us",
+    "text": " Popular belief. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor ",
+    "button": "Contact us"
+  }
+
+]

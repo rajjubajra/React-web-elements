@@ -1,0 +1,27 @@
+[
+   {
+     "id": 1,
+     "type": "text",
+     "title": "Jomsom Bazar",
+     "text": "Hi ! I am text block. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo."
+   },
+   {
+     "id": 2,
+     "type": "image",
+     "title": "Lomang Thang",
+     "image": "./images/B3withHeading-V/1.jpg"
+   },
+   {
+     "id": 3,
+     "type": "image",
+     "title": "Machapuchre",
+     "image": "./images/B3withHeading-V/2.jpg"
+   },
+   {
+     "id": 4,
+     "type": "image",
+     "title": "Miteri Sangu",
+     "image": "./images/B3withHeading-V/3.jpg"
+   }
+
+]

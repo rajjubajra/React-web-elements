@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "status": 1,
+    "logo": "./images/logo240x240.png",
+    "title": "Join Our Natural and Healthy Fitness Team",
+    "text": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...",
+    "button": "Join The Team",
+    "href" : "http://www.yellow-website.com"
+  }
+
+]

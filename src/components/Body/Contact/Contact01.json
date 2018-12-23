@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "city": "Oxford",
+    "addressline1": "Parkland, South Road, Bank",
+    "addressline2": "St Ann’s Square, Manchester, UK",
+    "postcode": "M2 7PE",
+    "tel": "+ 44 1234 5678"
+  },
+  {
+    "id": 2,
+    "city": "Glasgow",
+    "addressline1": "Parkland, South Road, Bank",
+    "addressline2": "St Ann’s Square, Manchester, UK",
+    "postcode": "M2 7PE",
+    "tel": "+ 44 1234 5678"
+  },
+  {
+    "id": 3,
+    "city": "Manchester",
+    "addressline1": "Parkland, South Road, Bank",
+    "addressline2": "St Ann’s Square, Manchester, UK",
+    "postcode": "M2 7PE",
+    "tel": "+ 44 1234 5678"
+  },
+  {
+    "id": 4,
+    "city": "Newcastle",
+    "addressline1": "Parkland, South Road, Bank",
+    "addressline2": "St Ann’s Square, Manchester, UK",
+    "postcode": "M2 7PE",
+    "tel": "+ 44 1234 5678"
+  },
+  {
+    "id": 5,
+    "city": "Edinburgh",
+    "addressline1": "Parkland, South Road, Bank",
+    "addressline2": "St Ann’s Square, Manchester, UK",
+    "postcode": "M2 7PE",
+    "tel": "+ 44 1234 5678"
+  },
+  {
+    "id": 6,
+    "city": "London",
+    "addressline1": "Parkland, South Road, Bank",
+    "addressline2": "St Ann’s Square, Manchester, UK",
+    "postcode": "M2 7PE",
+    "tel": "+ 44 1234 5678"
+  }
+]
