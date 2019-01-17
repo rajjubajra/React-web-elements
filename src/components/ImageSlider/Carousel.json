@@ -1,0 +1,23 @@
+[
+  {
+    "id": 0,
+    "imgurl": "./images/carousel/01.jpg",
+    "caption": "Image One"
+  },
+  {
+    "id": 1,
+    "imgurl": "./images/carousel/02.jpg",
+    "caption": "Image Two"
+  },
+  {
+    "id": 2,
+    "imgurl": "./images/carousel/03.jpg",
+    "caption": "Image Three"
+  },
+  {
+    "id": 2,
+    "imgurl": "./images/carousel/04.jpg",
+    "caption": "Image Four"
+  }
+
+]

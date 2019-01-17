@@ -1,6 +1,6 @@
 import React from 'react';
 import styled from 'styled-components';
-import DataContact01 from './Contact01.json';
+import DataContact01 from './Contact.json';
 
 const Container = styled.div`
    max-width: 1366px;

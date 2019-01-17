@@ -5,7 +5,8 @@
     "addressline1": "Parkland, South Road, Bank",
     "addressline2": "St Ann’s Square, Manchester, UK",
     "postcode": "M2 7PE",
-    "tel": "+ 44 1234 5678"
+    "tel": "+ 44 1234 5678",
+    "email": "test@exmaple.com"
   },
   {
     "id": 2,
@@ -13,7 +14,8 @@
     "addressline1": "Parkland, South Road, Bank",
     "addressline2": "St Ann’s Square, Manchester, UK",
     "postcode": "M2 7PE",
-    "tel": "+ 44 1234 5678"
+    "tel": "+ 44 1234 5678",
+    "email": "test@exmaple.com"
   },
   {
     "id": 3,
@@ -21,7 +23,8 @@
     "addressline1": "Parkland, South Road, Bank",
     "addressline2": "St Ann’s Square, Manchester, UK",
     "postcode": "M2 7PE",
-    "tel": "+ 44 1234 5678"
+    "tel": "+ 44 1234 5678",
+    "email": "test@exmaple.com"
   },
   {
     "id": 4,
@@ -29,7 +32,8 @@
     "addressline1": "Parkland, South Road, Bank",
     "addressline2": "St Ann’s Square, Manchester, UK",
     "postcode": "M2 7PE",
-    "tel": "+ 44 1234 5678"
+    "tel": "+ 44 1234 5678",
+    "email": "test@exmaple.com"
   },
   {
     "id": 5,
@@ -37,7 +41,8 @@
     "addressline1": "Parkland, South Road, Bank",
     "addressline2": "St Ann’s Square, Manchester, UK",
     "postcode": "M2 7PE",
-    "tel": "+ 44 1234 5678"
+    "tel": "+ 44 1234 5678",
+    "email": "test@exmaple.com"
   },
   {
     "id": 6,
@@ -45,6 +50,7 @@
     "addressline1": "Parkland, South Road, Bank",
     "addressline2": "St Ann’s Square, Manchester, UK",
     "postcode": "M2 7PE",
-    "tel": "+ 44 1234 5678"
+    "tel": "+ 44 1234 5678",
+    "email": "test@exmaple.com"
   }
 ]

@@ -1,0 +1,138 @@
+[
+  {
+    "id": 1,
+    "idParent": 1,
+    "label": "Boxes",
+    "href": "#"
+  },
+  {
+    "id": 2,
+    "idParent": 1,
+    "label": "Call2Action",
+    "href": "#"
+  },
+  {
+    "id": 3,
+    "idParent": 1,
+    "label": "Card",
+    "href": "#"
+  },
+  {
+    "id": 4,
+    "idParent": 1,
+    "label": "Gallery",
+    "href": "#"
+  },
+  {
+    "id": 5,
+    "idParent": 1,
+    "label": "Landing page",
+    "href": "#"
+  },
+
+
+  {
+      "_comment": "BODY submenu ends | CONTACT submenu starts"
+  },
+
+  {
+    "id": 6,
+    "idParent": 2,
+    "label": "Contact - 01",
+    "href": "#"
+  },
+
+
+
+  {
+      "_comment": "CONTACT submenu ends | FLEXBOX submenu starts"
+  },
+
+  {
+    "id": 7,
+    "idParent": 3,
+    "label": "Align Center",
+    "href": "#"
+  },
+  {
+    "id": 8,
+    "idParent": 3,
+    "label": "Flex Direction",
+    "href": "#"
+  },
+
+
+  {
+      "_comment": "FLEXBOX submenu ends | FOOTER submenu starts"
+  },
+
+  {
+    "id": 9,
+    "idParent": 4,
+    "label": "Footer - One",
+    "href": "#"
+  },
+
+  {
+      "_comment": "FOOTER submenu ends | GRIDS submenu starts"
+  },
+
+  {
+    "id": 10,
+    "idParent": 5,
+    "label": "GRIDS",
+    "href": "#"
+  },
+
+  {
+      "_comment": "GRIDS submenu ends | IMAGE SLIDER submenu starts"
+  },
+
+  {
+    "id": 11,
+    "idParent": 6,
+    "label": "Auto Slider",
+    "href": "#"
+  },
+  {
+    "id": 12,
+    "idParent": 6,
+    "label": "Fill Screen Slider",
+    "href": "#"
+  },
+
+  {
+      "_comment": "IMAGE SLIDER submenu ends | NAVIGATION submenu starts"
+  },
+
+
+  {
+    "id": 13,
+    "idParent": 7,
+    "label": "Dot Navigation",
+    "href": "#"
+  },
+  {
+    "id": 14,
+    "idParent": 7,
+    "label": "Full Page Navigation",
+    "href": "#"
+  },
+  {
+    "id": 15,
+    "idParent": 7,
+    "label": "Navbar One",
+    "href": "#"
+  },
+
+  {
+      "_comment": "NAVIGATION submenu ends | TOP BAR submenu starts"
+  },
+
+  {
+    "id": 16,
+    "idParent": 8,
+    "label": "Topbar One",
+    "href": "#"
+  }
+]

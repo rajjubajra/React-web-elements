@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "href": "#",
+    "label":"Body",
+    "submenu": [{
+                "id": 1,
+                "idParent": 1,
+                "label": "Boxes",
+                "href": "#"
+              },
+              {
+                "id": 2,
+                "idParent": 1,
+                "label": "Call2Action",
+                "href": "#"
+              },
+              {
+                "id": 3,
+                "idParent": 1,
+                "label": "Card",
+                "href": "#"
+              },
+              {
+                "id": 4,
+                "idParent": 1,
+                "label": "Gallery",
+                "href": "#"
+              },
+              {
+                "id": 5,
+                "idParent": 1,
+                "label": "Landing page",
+                "href": "#"
+              }]
+
+
+  },
+  {
+    "id": 2,
+    "href": "#",
+    "label":"Contact"
+
+  },
+  {
+    "id": 3,
+    "href": "#",
+    "label":"Flexbox"
+  },
+  {
+    "id": 4,
+    "href": "#",
+    "label":"Footer"
+
+  },
+  {
+    "id": 5,
+    "href": "#",
+    "label":"Grids"
+  },
+  {
+    "id": 6,
+    "href": "#",
+    "label":"Image Slider"
+
+  },
+  {
+    "id": 7,
+    "href": "#",
+    "label":"Navigation"
+
+  },
+  {
+    "id": 8,
+    "href": "#",
+    "label":"Top Bar"
+
+  },
+  {
+    "id": 9,
+    "href": "#",
+    "label":"Forms"
+
+  },
+  {
+    "id": 10,
+    "href": "#",
+    "label":"Misc Test"
+  }
+]
