@@ -3,34 +3,26 @@ import styled, {keyframes} from 'styled-components';
 
 // Create the keyframes
 const rotate = keyframes`
-  from {
-    transform: rotate(0deg);
-  }
-
-  to {
-    transform: rotate(360deg);
-  }
+  from { transform: rotate(0deg);}
+  to { transform: rotate(360deg);}
 `;
 
-// Here we create a component that will rotate everything we pass in over two seconds
+//create a component that will rotate everything we pass in over two seconds
 const Rotate = styled.div`
+  margin: 50px;
+  width: 100px;
+  height: 50px;
+  border-radius: 50px;
+  font-size: 1rem;
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 100vh;
-  width: 100%;
   animation: ${rotate} 10s linear infinite;
-  padding: 2rem 1rem;
   border: 1px solid #ccc;
-  font-size: 2rem;
 `;
 
 {/* Keyframes does not wokr need search */}
-const RotateObject = () =>{
-  return(
+const RotateObject = () =>(
     <Rotate>ABCD</Rotate>
-
-  );
-}
-
+)
 export default RotateObject;

@@ -1,26 +1,20 @@
 import React, { Component } from 'react';
-// import ReactDOM from 'react-dom';
 import {BrowserRouter, Route, Link} from 'react-router-dom';
-
- import Grids from './components/Grids/Grids';
- import TopBar from './components/TopBar/TopBar';
-// import AlignCenter from './components/Flexbox/AlignCenter';
- import Flexbox from './components/Flexbox/Flexbox';
- import Navigation from './components/Navigation/Navigation';
-// import Toggle from './components/NavigationBar/Toggle';
- import Footer from './components/Footer/Footer';
- import ImageSlider from './components/ImageSlider/ImageSlider';
- import AutoSlider from './components/ImageSlider/AutoSlider';
-// import RotateObject from './components/Animation/KeyFrames/Rotate';
-// import SquareBox from './components/Animation/Transform/Box-hover';
-// import TriggerBox from './components/Animation/Transform/Trigger-Box';
-import Body from    './components/Body/Body';
-import Contact from './components/Body/Contact/Contact';
-import Error from './components/Error';
 
 import dbMenu from './components/Router/dbMenu.json';
 import {Container, Row, MenuStyle, SubmenuStyle, Main, Sidebar} from './components/Router/RouterStyle.js';
+
+import Animation from './components/Animation/Animation'; 
+import Grids from './components/Grids/Grids';
+import TopBar from './components/TopBar/TopBar';
+import Flexbox from './components/Flexbox/Flexbox';
+import Navigation from './components/Navigation/Navigation';
+import Footer from './components/Footer/Footer';
+import ImageSlider from './components/ImageSlider/ImageSlider';
+import Body from    './components/Body/Body';
+import Contact from './components/Body/Contact/Contact';
 import Forms from './components/Forms/Forms';
+import Parallax from './components/Parallax/Parallax';
 
 class App extends Component {
     state = {
@@ -28,9 +22,7 @@ class App extends Component {
     }
 
     componentDidMount(){
-
         this.setState({menus: dbMenu});
-
     }
 
     render(){
@@ -54,7 +46,9 @@ class App extends Component {
           </Sidebar>
           <Main>
               <Route exact={true} path='/' component={Home} />
+              <Route exact={true} path='/Animation' component={Animation} />
               <Route exact={true} path='/Body' component={Body} />
+              <Route exact={true} path='/Parallax' component={Parallax} />
               <Route exact={true} path='/Contact' component={Contact} />
               <Route exact={true} path='/Flexbox' component={Flexbox} />
               <Route exact={true} path='/Footer' component={Footer} />

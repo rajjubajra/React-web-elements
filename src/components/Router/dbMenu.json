@@ -85,6 +85,18 @@
   {
     "id": 10,
     "href": "#",
+    "label":"Animation"
+
+  },
+  {
+    "id": 11,
+    "href": "#",
+    "label":"Parallax"
+
+  },
+  {
+    "id": 12,
+    "href": "#",
     "label":"Misc Test"
   }
 ]

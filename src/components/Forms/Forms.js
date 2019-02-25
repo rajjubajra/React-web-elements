@@ -3,7 +3,8 @@ import FormLogin from './FormLogin';
 import FormRegister from './FormRegister';
 import FormContact from './FormContact';
 import FormValidation from './FormValidation';
-import FormwithIcons from './FormwithIcons';
+import FormwithIcons    from './FormwithIcons';
+import FormwithIconsMsg from './FormwithIconsMsg';
 import FormSubscription from './FormSubscription';
 import FormPopup from './FormPopup';
 import FormSearch from './FormSearch';
@@ -33,6 +34,7 @@ class Form extends React.Component{
         <FormPopup />
         <FormSubscription />
         <FormwithIcons />
+        <FormwithIconsMsg />
         <FormValidation />
         
       </div>
